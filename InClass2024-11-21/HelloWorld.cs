@@ -10,7 +10,10 @@ namespace InClass2024_11_21
         public static void SayHello()
         {
             Console.WriteLine("Hellow from HelloWorld.SayHello()");
-        }   
+        }
+        public static void SayHelloWorld()
+        {
+            Console.WriteLine("HelloWorld");
+        }
     }
-
 }
